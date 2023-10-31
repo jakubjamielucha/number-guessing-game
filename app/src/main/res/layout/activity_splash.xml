@@ -23,7 +23,7 @@
         android:fontFamily="serif"
         android:text="Number Guessing Game"
         android:textAlignment="center"
-        android:textColor="#00BCD4"
+        android:textColor="#FFEB3B"
         android:textSize="48sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
